@@ -1,1 +1,1 @@
-# jQuploadify
+# jQuploadify Demo
